@@ -1,6 +1,6 @@
 # NFL Combine Performance Prediction
 
-This repository houses a data analysis project which applies the K-Nearest Neighbors (KNN) algorithm to predict NFL Combine performance grades. The analysis uses a dataset from the 2014 NFL Combine, featuring player measurements and drill results.
+This repository houses a data analysis project which applies the K Nearest Neighbors (KNN) algorithm to predict NFL Combine performance grades. The analysis uses a dataset from the 2014 NFL Combine, featuring player measurements and drill results.
 
 ## Project Structure
 
